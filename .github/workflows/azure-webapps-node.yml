@@ -30,7 +30,7 @@ env:
 permissions:
   contents: read
 
-jobs:
+jobs: # hello world
   build:
     runs-on: ubuntu-latest
     steps:
